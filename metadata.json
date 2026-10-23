@@ -1,6 +1,48 @@
 {
-  "name": "Expediente Natural · San Luis Potosí",
-  "description": "Micrositio educativo interactivo sobre las especies endémicas, biodiversidad y hábitats de San Luis Potosí con estética de guía de campo ilustrada.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "appName": "Expediente Natural · San Luis Potosí",
+  "heroImage": "https://ibb.co",
+  "species": [
+    {
+      "id": "1",
+      "name": "Ardilla de Peters",
+      "scientificName": "Sciurus oculatus",
+      "image": "https://ibb.co",
+      "description": "Especie de roedor esciúromorfo de la familia Sciuridae endémica de México."
+    },
+    {
+      "id": "2",
+      "name": "Culebra Sorda",
+      "scientificName": "Pituophis deppei",
+      "image": "https://ibb.co",
+      "description": "Especie de reptil endémico que habita en las zonas semiáridas del estado."
+    },
+    {
+      "id": "3",
+      "name": "Flor de Mayo",
+      "scientificName": "Plumeria rubra",
+      "image": "https://ibb.co",
+      "description": "Hermosa flor endémica con gran significado cultural y presencia regional."
+    },
+    {
+      "id": "4",
+      "name": "Mirlo Pinto",
+      "scientificName": "Ridgwayia pinicola",
+      "image": "https://ibb.co",
+      "description": "Ave endémica mexicana que habita en los bosques montañosos potosinos."
+    },
+    {
+      "id": "5",
+      "name": "Peyotillo Cactus",
+      "scientificName": "Pelecyphora aselliformis",
+      "image": "https://ibb.co",
+      "description": "Cactus endémico exclusivo de San Luis Potosí, altamente protegido."
+    },
+    {
+      "id": "6",
+      "name": "Perrito Llanero",
+      "scientificName": "Cynomys mexicanus",
+      "image": "https://ibb.co",
+      "description": "Pequeño roedor social endémico de las llanuras semiáridas del altiplano."
+    }
+  ]
 }

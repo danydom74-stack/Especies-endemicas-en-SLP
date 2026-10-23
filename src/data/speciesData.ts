@@ -162,6 +162,11 @@ export const SPECIES_DATA: Species[] = [
     distributionSLP: 'Cañones del Altiplano y Sierra Madre Oriental (Catorce, Charcas).',
     distributionGeneral: 'Distribución holártica; poblaciones reproductivas prioritarias en México.',
     habitatDescription: 'Acantilados verticales, cañones y pastizales abiertos.',
-    ecologicalRole: 'Depredador tope'
+    ecologicalRole: 'Depredador tope',
+    documentedThreats: 'Pérdida de hábitat, electrocución y envenenamiento.',
+    sourceCitation: 'FMCN · NOM-059-SEMARNAT-2010',
+    consultationDate: 'Octubre 2026',
+    registeredLocations: ['Altiplano Potosino', 'Sierra de Catorce'],
+    keyNotes: 'Ave majestuosa de gran relevancia biocultural.'
   }
 ];

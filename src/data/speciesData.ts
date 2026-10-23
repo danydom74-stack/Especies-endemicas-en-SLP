@@ -31,7 +31,7 @@ export const SPECIES_DATA: Species[] = [
     scientificName: 'Sciurus oculatus',
     category: 'Fauna',
     group: 'Mamífero',
-    image:"https://ibb.co",
+    image: "https://ibb.co",
     imageAlt: 'Ardilla de Peters en rama de pino',
     fieldPlateNumber: 'LAM-02',
     shortDescription: 'Ardilla arborícola endémica del centro de México. Habita bosques de pino y encino en la Sierra Madre Oriental potosina.',
@@ -55,7 +55,7 @@ export const SPECIES_DATA: Species[] = [
     scientificName: 'Pituophis deppei',
     category: 'Fauna',
     group: 'Reptil',
-    image:"https://ibb.co",
+    image: "https://ibb.co",
     imageAlt: 'Culebra sorda mexicana en reposo',
     fieldPlateNumber: 'LAM-03',
     shortDescription: 'Reptil inofensivo endémico de México. Es un controlador natural de roedores en pastizales y matorrales potosinos.',
@@ -151,7 +151,7 @@ export const SPECIES_DATA: Species[] = [
     scientificName: 'Aquila chrysaetos',
     category: 'Fauna',
     group: 'Ave',
-    image: https://ibb.co,
+    image: "https://ibb.co",
     imageAlt: 'Águila real mexicana aislada',
     fieldPlateNumber: 'LAM-07',
     shortDescription: 'Monarca de los riscos serranos y símbolo nacional. Anida en acantilados inaccesibles del Altiplano y Sierra Madre potosina.',
@@ -162,11 +162,6 @@ export const SPECIES_DATA: Species[] = [
     distributionSLP: 'Cañones del Altiplano y Sierra Madre Oriental (Catorce, Charcas).',
     distributionGeneral: 'Distribución holártica; poblaciones reproductivas prioritarias en México.',
     habitatDescription: 'Acantilados verticales, cañones y pastizales abiertos.',
-    ecologicalRole: 'Depredador tope regulador del equilibrio ecológico.',
-    documentedThreats: 'Tendidos eléctricos sin aislar y colocación de cebos envenenados.',
-    sourceCitation: 'CONABIO · PACE Águila Real · NOM-059',
-    consultationDate: 'Octubre 2026',
-    registeredLocations: ['Serranías de Catorce', 'Guadalcázar'],
-    keyNotes: 'Especie nativa prioritaria para la conservación en el estado.'
+    ecologicalRole: 'Depredador tope'
   }
 ];
